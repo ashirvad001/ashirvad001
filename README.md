@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m a undergraduate B.tech Student<br>👯 I’m looking to collaborate on ML projects<br>🤝 I’m looking for Internships<br>🌱 I’m currently learning DSA,Data Science and AI/ML<br>
+🔭 I’m a final year B.tech Student in CS<br>👯 I’m looking to collaborate on ML projects<br>🤝 I’m currently learning DSA,Data Science and AI/ML<br>
 
 
 ## 🌐 Socials:
